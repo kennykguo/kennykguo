@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennykguo" alt="kennykguo" /></a> </p>
 
-- 🔭 I’m currently working on **reading ML research papers**
-
-- 🌱 I’m currently learning **PyTorch**
+- 🔭 I’m currently **reading ML research papers and learning PyTorch**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kennykguo](https://github.com/kennykguo)
-
-- 📫 How to reach me **kennyg.guo@mail.utoronto.ca**
+- 📫 Reach me **kennyg.guo@mail.utoronto.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
