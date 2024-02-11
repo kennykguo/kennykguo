@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Kenny</h1>
 <h3 align="center">I am studying Computer Engineering at the University of Toronto</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kennykguo&label=Profile%20views&color=0e75b6&style=flat" alt="kennykguo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennykguo" alt="kennykguo" /></a> </p>
 
 - 🔭 I’m currently **reading ML research papers and learning PyTorch**
 
