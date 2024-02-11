@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenny</h1>
+<h1 align="center">Hi, I'm Kenny</h1>
 <h3 align="center">I am studying Computer Engineering at the University of Toronto</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennykguo&label=Profile%20views&color=0e75b6&style=flat" alt="kennykguo" /> </p>
