@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Kenny</h1>
 <h3 align="center">I am studying Computer Engineering at the University of Toronto</h3>
 
-
-
-- 🔭 I’m currently **reading ML research papers and learning PyTorch**
-
-- 👯 I’m looking to collaborate on **open-source projects**
-
 - 📫 Reach me **kennyg.guo@mail.utoronto.ca**
 
 <h3 align="left">Connect with me:</h3>
