@@ -5,3 +5,4 @@
 - LinkedIn: <a> linkedin.com/in/kennykguo </a>
 
 
+<img src="https://komarev.com/ghpvc/?username=kennykguo&style=flat&color=blueviolet" alt="Profile View Count" width="100"/>
