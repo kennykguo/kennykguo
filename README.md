@@ -7,4 +7,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=kennykguo&style=flat&color=blueviolet" alt="Profile View Count" width="100"/>
 
-<img align="left" src="https://github-readme-stats-je7syvoku-kennykguo.vercel.app/api/top-langs/?username=kennykguo&layout=compact&&langs_count=10&theme=radical&hide=jupyter%20notebook,ShaderLab,Makefile,GLSL,HLSL&bg_color=0d1117&border_color=edcf45&border_radius=10" width="300" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
