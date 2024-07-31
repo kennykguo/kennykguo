@@ -6,6 +6,3 @@
 - LinkedIn: <a> linkedin.com/in/kennykguo </a>
 
 <img src="https://komarev.com/ghpvc/?username=kennykguo&style=flat&color=blueviolet" alt="Profile View Count" width="100"/>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennykguo)](https://github.com/kennykguo/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
