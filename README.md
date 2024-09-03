@@ -3,6 +3,6 @@
 
 - Reach me **kennyg.guo@mail.utoronto.ca**
 
-- LinkedIn: <a> linkedin.com/in/kennykguo </a>
+- LinkedIn: https://linkedin.com/in/kennykguo
 
 - Personal Website - https://kennykguo.github.io
