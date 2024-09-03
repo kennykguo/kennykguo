@@ -4,3 +4,5 @@
 - Reach me **kennyg.guo@mail.utoronto.ca**
 
 - LinkedIn: <a> linkedin.com/in/kennykguo </a>
+
+- Personal Website - https://kennykguo.github.io
